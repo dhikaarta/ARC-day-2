@@ -22,7 +22,8 @@ footer {
     text-align: center;
     padding: 3px;
     color:black;
-    margin-top: 100px;
+    margin-bottom: 500px;
+   
 }
 nav {
     height: 70px;
@@ -36,7 +37,7 @@ nav {
 }
 
 nav > * {
-    margin: 15px;
+    margin: 10px;
     color: #333;
 }
 
@@ -128,7 +129,7 @@ form {
     display: grid;
     place-items: center;
     font-size: 15px;
-    margin-bottom: 300px;
+    margin-bottom: 200px;
 }
 
 .test a {
