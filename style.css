@@ -16,6 +16,13 @@ body {
     place-items: center;
 }
 
+footer {
+    
+    text-align: center;
+    padding: 3px;
+    color:black;
+    margin-top: 100px;
+}
 nav {
     height: 70px;
     position: absolute;
@@ -28,7 +35,7 @@ nav {
 }
 
 nav > * {
-    margin: 5px;
+    margin: 10px;
     color: #333;
 }
 
@@ -110,8 +117,24 @@ form {
     cursor: pointer;
 }
 
+.test {
+    margin-top: 10px;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.test img{
+   
+    padding: 0 10px;
+    width: 90px;
+    margin: 0 15px;
+}
 form p {
     font-size: 13px;
     text-align: center;
     margin-top: 5vh;
 }
+
+
