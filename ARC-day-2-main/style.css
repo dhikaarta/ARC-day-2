@@ -14,7 +14,6 @@ body {
     width: 100vw;
     display: grid;
     place-items: center;
-    margin-top: 150px;
 }
 
 footer {
@@ -36,7 +35,7 @@ nav {
 }
 
 nav > * {
-    margin: 15px;
+    margin: 10px;
     color: #333;
 }
 
@@ -127,20 +126,17 @@ form {
 .card {
     display: grid;
     place-items: center;
-    font-size: 15px;
-    margin-bottom: 300px;
 }
 
 .test a {
     height: 100px;
     display: grid;
     place-items: center;
-    
 }
 
 .test img{
     padding: 0 10px;
-    width: 75px;
+    width: 90px;
     margin: 0 15px;
 }
 
@@ -149,3 +145,5 @@ form p {
     text-align: center;
     margin-top: 5vh;
 }
+
+
